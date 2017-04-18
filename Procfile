@@ -1,1 +1,1 @@
-web: gunicorn courgette.wsgi --log-file -
+web: gunicorn courgette.wsgi
